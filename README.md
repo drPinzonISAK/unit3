@@ -1,2 +1,3 @@
-# unit3
-Python desktop app
+# Unit 3
+
+Modern applications with OOP and Python
