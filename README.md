@@ -4,8 +4,8 @@
 
 ## List of techniques used
 1. For loops and conditionals
-2. Objject oriented programming
+2. Object oriented programming
 3. Query of SQL databases
 
-# Calculating the total and average elevation
+## Calculating the total and average elevation
 
